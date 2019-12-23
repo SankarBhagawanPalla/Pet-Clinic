@@ -40,6 +40,5 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/SankarBhagawanPalla/Pet-Clinic.git</developerConnection>
-      <tag>san-pet-clinic-0.0.1</tag>
   </scm>
 </project>
