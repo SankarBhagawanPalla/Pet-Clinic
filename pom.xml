@@ -40,5 +40,5 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/SankarBhagawanPalla/Pet-Clinic.git</developerConnection>
-  </scm>
+    </scm>
 </project>
