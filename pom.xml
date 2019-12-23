@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.springworks</groupId>
     <artifactId>san-pet-clinic</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>san-pet-clinic</name>
     <description>Sankar's Pet Clinic Project</description>
 
@@ -40,6 +40,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/SankarBhagawanPalla/Pet-Clinic.git</developerConnection>
-    </scm>
+      <tag>san-pet-clinic-0.0.1</tag>
+  </scm>
 
 </project>
